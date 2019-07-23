@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58676d57-8333-497b-8dd0-57642b4346f9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="userMgmtDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#383#874#0" />
+                <element signature="e#1055#1366#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/userDB.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#12#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/base.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#12#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/user.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+              <folding>
+                <element signature="e#37#338#0" />
+                <element signature="e#369#700#0" />
+                <element signature="e#728#1025#0" />
+                <element signature="e#1054#1157#0" />
+                <element signature="e#1184#1557#0" />
+                <element signature="e#1584#1964#0" />
+                <element signature="e#1996#2144#0" />
+                <element signature="e#2169#2556#0" />
+                <element signature="e#2594#2917#0" />
+                <element signature="e#2949#3435#0" />
+                <element signature="e#3470#4048#0" />
+                <element signature="e#4088#4528#0" />
+                <element signature="e#4565#4994#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/tools.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/webController.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#188#232#0" />
+                <element signature="n#!!block;n#StudentRegister#0" />
+                <element signature="n#!!block;n#TeacherRegister#0" />
+                <element signature="n#!!block;n#UserLogin#0" />
+                <element signature="n#!!block;n#UserLoginout#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/token.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="81" column="32" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="32" />
+              <folding>
+                <element signature="e#429#1051#0" />
+                <element signature="e#1283#1320#0" />
+                <element signature="e#1350#1395#0" />
+                <element signature="n#!!block;n#unauthorized#0" />
+                <element signature="n#!!block;n#requestTimeout#0" />
+                <element signature="n#!!block;n#decodeAuthHeader#0" />
+                <element signature="n#!!block;n#Token#0" />
+                <element signature="n#!!block;n#New#0" />
+                <element signature="n#!!block;n#Equal#0" />
+                <element signature="n#!!block;n#Hash#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/userController.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#385#550#0" />
+                <element signature="e#402#524#0" />
+                <element signature="e#613#847#0" />
+                <element signature="e#616#688#1" />
+                <element signature="e#772#793#0" />
+                <element signature="e#947#1456#0" />
+                <element signature="e#1179#1314#0" />
+                <element signature="e#1559#2071#0" />
+                <element signature="e#1794#1929#0" />
+                <element signature="e#2174#2686#0" />
+                <element signature="e#2409#2544#0" />
+                <element signature="e#2787#3278#0" />
+                <element signature="e#3016#3151#0" />
+                <element signature="e#3380#3900#0" />
+                <element signature="e#3619#3754#0" />
+                <element signature="e#4008#4582#0" />
+                <element signature="e#4108#4214#1" />
+                <element signature="e#4299#4434#0" />
+                <element signature="e#4690#5271#0" />
+                <element signature="e#4789#4895#1" />
+                <element signature="e#4980#5115#0" />
+                <element signature="e#5378#5955#0" />
+                <element signature="e#5476#5580#1" />
+                <element signature="e#5663#5798#0" />
+                <element signature="e#6061#6636#0" />
+                <element signature="e#6158#6264#1" />
+                <element signature="e#6345#6480#0" />
+                <element signature="e#6755#7392#0" />
+                <element signature="e#6861#6991#1" />
+                <element signature="e#7124#7259#0" />
+                <element signature="e#7508#8058#0" />
+                <element signature="e#7610#7711#1" />
+                <element signature="e#7792#7927#0" />
+                <element signature="e#8175#8806#0" />
+                <element signature="e#8277#8407#1" />
+                <element signature="e#8535#8670#0" />
+                <element signature="e#8923#9560#0" />
+                <element signature="e#9028#9161#1" />
+                <element signature="e#9289#9424#0" />
+                <element signature="e#9656#9868#0" />
+                <element signature="e#9738#9854#0" />
+                <element signature="e#9984#14291#0" />
+                <element signature="e#10356#10475#0" />
+                <element signature="e#10490#10612#0" />
+                <element signature="e#10934#11062#0" />
+                <element signature="e#11216#11277#0" />
+                <element signature="e#11239#11273#0" />
+                <element signature="e#11377#11522#0" />
+                <element signature="e#11681#11826#0" />
+                <element signature="e#12069#12197#0" />
+                <element signature="e#12351#12412#0" />
+                <element signature="e#12374#12408#0" />
+                <element signature="e#12512#12657#0" />
+                <element signature="e#12816#12961#0" />
+                <element signature="e#12971#14048#0" />
+                <element signature="e#13162#13290#0" />
+                <element signature="e#13438#13499#0" />
+                <element signature="e#13461#13495#0" />
+                <element signature="e#13599#13744#0" />
+                <element signature="e#13895#14040#0" />
+                <element signature="e#14050#14170#0" />
+                <element signature="e#15114#15252#0" />
+                <element signature="e#15268#15431#0" />
+                <element signature="e#15465#15517#0" />
+                <element signature="e#15550#15602#0" />
+                <element signature="e#15632#15678#0" />
+                <element signature="e#15706#15750#0" />
+                <element signature="e#15778#15820#0" />
+                <element signature="e#15848#15890#0" />
+                <element signature="e#15967#16105#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/golang/src/io/io.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/golang/src/net/http/request.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2805">
+              <caret line="186" column="29" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UpdateUserInfoToken</find>
+      <find>4</find>
+      <find>401</find>
+      <find>40</find>
+      <find>UpdateUserInfo</find>
+      <find>QueryUserInfoById</find>
+      <find>method</find>
+      <find>quer</find>
+      <find>QueryUserInfoByUnamePwd</find>
+      <find>400</find>
+      <find>userInfo</find>
+      <find>QueryUseInfoByToken</find>
+      <find>unauthorized</find>
+      <find>decodeAuthHeader</find>
+      <find>tokenEntropy</find>
+      <find>QueryUser</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../userMgmtDemo/controller/webController.go" />
+        <option value="$PROJECT_DIR$/db/base.go" />
+        <option value="$PROJECT_DIR$/../userMgmtDemo/db/userDB.go" />
+        <option value="$PROJECT_DIR$/tools/tools.go" />
+        <option value="$PROJECT_DIR$/common/token.go" />
+        <option value="$PROJECT_DIR$/tools/userErrMsg.go" />
+        <option value="$PROJECT_DIR$/model/user.go" />
+        <option value="$PROJECT_DIR$/controller/webController.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/controller/userController.go" />
+        <option value="$PROJECT_DIR$/db/userDB.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="964" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\go\src\userMgmtDemo\common" />
+      <recent name="E:\go\src\userMgmtDemo\controller" />
+      <recent name="E:\go\src\userMgmtDemo\db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="userMgmtDemo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="userMgmtDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build tools.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="userMgmtDemo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/tools/tools.go" />
+      <package value="selectCourse" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build tools.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4960212" visible="true" weight="0.2086331" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5039788" side_tool="true" weight="0.19584332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3882545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32933652" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.17985612" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014493" side_tool="true" weight="0.21982414" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38699186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/model/user.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/middleware.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/if.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/response.go" />
+    <entry file="file:///usr/local/golang/src/database/sql/sql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="118" column="23" lean-forward="true" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/golang/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="3035" column="20" lean-forward="true" selection-start-line="3035" selection-start-column="5" selection-end-line="3035" selection-end-column="20" />
+          <folding>
+            <element signature="e#61382#61544#0" />
+            <element signature="e#62222#62549#0" />
+            <element signature="e#63075#64670#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/jinzhu/gorm/scope.go" />
+    <entry file="file:///usr/local/golang/src/net/url/url.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="827" column="5" selection-start-line="827" selection-start-column="5" selection-end-line="827" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/request.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/route.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/ant0ine/go-json-rest/rest/api.go" />
+    <entry file="file:///usr/local/golang/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userMgmtDemo" />
+    <entry file="file:///usr/local/golang/src/strconv/atoi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="201" column="5" selection-start-line="201" selection-start-column="5" selection-end-line="201" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../userMgmtDemo/db/userDB.go" />
+    <entry file="file://$PROJECT_DIR$/../userMgmtDemo/controller/webController.go" />
+    <entry file="file:///usr/local/golang/src/encoding/json/decode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="94" column="45" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/golang/src/encoding/json/encode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="156" column="45" selection-start-line="156" selection-start-column="45" selection-end-line="156" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/jinzhu/gorm/utils.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/jinzhu/gorm/main.go" />
+    <entry file="file://$PROJECT_DIR$/tools/userErrMsg.go" />
+    <entry file="file:///usr/local/golang/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/golang/src/io/io.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/golang/src/net/http/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="186" column="29" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/webController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#188#232#0" />
+            <element signature="n#!!block;n#StudentRegister#0" />
+            <element signature="n#!!block;n#TeacherRegister#0" />
+            <element signature="n#!!block;n#UserLogin#0" />
+            <element signature="n#!!block;n#UserLoginout#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/token.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="32" />
+          <folding>
+            <element signature="e#429#1051#0" />
+            <element signature="e#1283#1320#0" />
+            <element signature="e#1350#1395#0" />
+            <element signature="n#!!block;n#unauthorized#0" />
+            <element signature="n#!!block;n#requestTimeout#0" />
+            <element signature="n#!!block;n#decodeAuthHeader#0" />
+            <element signature="n#!!block;n#Token#0" />
+            <element signature="n#!!block;n#New#0" />
+            <element signature="n#!!block;n#Equal#0" />
+            <element signature="n#!!block;n#Hash#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#12#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
+          <folding>
+            <element signature="e#37#338#0" />
+            <element signature="e#369#700#0" />
+            <element signature="e#728#1025#0" />
+            <element signature="e#1054#1157#0" />
+            <element signature="e#1184#1557#0" />
+            <element signature="e#1584#1964#0" />
+            <element signature="e#1996#2144#0" />
+            <element signature="e#2169#2556#0" />
+            <element signature="e#2594#2917#0" />
+            <element signature="e#2949#3435#0" />
+            <element signature="e#3470#4048#0" />
+            <element signature="e#4088#4528#0" />
+            <element signature="e#4565#4994#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/tools.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#383#874#0" />
+            <element signature="e#1055#1366#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/userController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#385#550#0" />
+            <element signature="e#402#524#0" />
+            <element signature="e#613#847#0" />
+            <element signature="e#616#688#1" />
+            <element signature="e#772#793#0" />
+            <element signature="e#947#1456#0" />
+            <element signature="e#1179#1314#0" />
+            <element signature="e#1559#2071#0" />
+            <element signature="e#1794#1929#0" />
+            <element signature="e#2174#2686#0" />
+            <element signature="e#2409#2544#0" />
+            <element signature="e#2787#3278#0" />
+            <element signature="e#3016#3151#0" />
+            <element signature="e#3380#3900#0" />
+            <element signature="e#3619#3754#0" />
+            <element signature="e#4008#4582#0" />
+            <element signature="e#4108#4214#1" />
+            <element signature="e#4299#4434#0" />
+            <element signature="e#4690#5271#0" />
+            <element signature="e#4789#4895#1" />
+            <element signature="e#4980#5115#0" />
+            <element signature="e#5378#5955#0" />
+            <element signature="e#5476#5580#1" />
+            <element signature="e#5663#5798#0" />
+            <element signature="e#6061#6636#0" />
+            <element signature="e#6158#6264#1" />
+            <element signature="e#6345#6480#0" />
+            <element signature="e#6755#7392#0" />
+            <element signature="e#6861#6991#1" />
+            <element signature="e#7124#7259#0" />
+            <element signature="e#7508#8058#0" />
+            <element signature="e#7610#7711#1" />
+            <element signature="e#7792#7927#0" />
+            <element signature="e#8175#8806#0" />
+            <element signature="e#8277#8407#1" />
+            <element signature="e#8535#8670#0" />
+            <element signature="e#8923#9560#0" />
+            <element signature="e#9028#9161#1" />
+            <element signature="e#9289#9424#0" />
+            <element signature="e#9656#9868#0" />
+            <element signature="e#9738#9854#0" />
+            <element signature="e#9984#14291#0" />
+            <element signature="e#10356#10475#0" />
+            <element signature="e#10490#10612#0" />
+            <element signature="e#10934#11062#0" />
+            <element signature="e#11216#11277#0" />
+            <element signature="e#11239#11273#0" />
+            <element signature="e#11377#11522#0" />
+            <element signature="e#11681#11826#0" />
+            <element signature="e#12069#12197#0" />
+            <element signature="e#12351#12412#0" />
+            <element signature="e#12374#12408#0" />
+            <element signature="e#12512#12657#0" />
+            <element signature="e#12816#12961#0" />
+            <element signature="e#12971#14048#0" />
+            <element signature="e#13162#13290#0" />
+            <element signature="e#13438#13499#0" />
+            <element signature="e#13461#13495#0" />
+            <element signature="e#13599#13744#0" />
+            <element signature="e#13895#14040#0" />
+            <element signature="e#14050#14170#0" />
+            <element signature="e#15114#15252#0" />
+            <element signature="e#15268#15431#0" />
+            <element signature="e#15465#15517#0" />
+            <element signature="e#15550#15602#0" />
+            <element signature="e#15632#15678#0" />
+            <element signature="e#15706#15750#0" />
+            <element signature="e#15778#15820#0" />
+            <element signature="e#15848#15890#0" />
+            <element signature="e#15967#16105#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/userDB.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#12#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+#ifndef CLASSINFO_H
+#define CLASSINFO_H
+
+#include <QDialog>
+
+namespace Ui {
+class ClassInfo;
+}
+
+class ClassInfo : public QDialog
+{
+    Q_OBJECT
+
+public:
+    explicit ClassInfo(QString token, QString userID, int op, QWidget *parent = 0);
+    ~ClassInfo();
+
+private:
+    Ui::ClassInfo *ui;
+};
+
+#endif // CLASSINFO_H
